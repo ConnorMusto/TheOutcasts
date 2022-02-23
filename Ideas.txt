@@ -50,6 +50,7 @@
    - 
    who can be our sponsor:
    - most likely a shopping center/mall interested in our idea,still unsure though
+
 4) Admin System for Hospitals
    Ideas for it:
    -An admin system for hospitals, that can keep track of patients files and medical history, as opposed to using physical files.
@@ -61,3 +62,19 @@
    who can be our sponsor:
    - well...hospitals?
    - anyone interested in improving the current system hospitals use, really
+
+5) An Edutainment website for deaf kids
+  Ideas for it: 
+  - A sort of youtube where there are people who use hand gestures to teach and entertain deaf kids.
+  - Can also be a for of online interaction for deaf kids (like zoom) where they see each other and share stories.
+  - Im not sure about other ideas towards this but then yeah you get my drift 
+  
+  cons:
+  -when coding we cant use words since im unsure if they can read or not. So we will have to include some kind of pictures that explain how the system works.
+  
+  pros; 
+  well deaf people can have their own social and edutainment system.
+  
+  who can be our sponser:
+  Deaf school teachers theyll also provide more details on how deaf kids learn 
+  
