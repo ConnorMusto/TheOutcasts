@@ -37,3 +37,27 @@
   who can be our sponsors:
   -sponsors from groups like alcholics anonymous 
   -priests? (any religion could probably work)
+
+3) Interactive Catalogue
+   Ideas for it:
+   -Catalogue that users interact with that give them real time values related to any item they want to buy, such as which stores to get the specific item from and varying    prices, as well as other informatiion related to that specific product, including rela time stock numbers, for a select store at a certainshopping center/mall.
+   pros: 
+   -convenient
+   - to my knowledge, there isn't an already existing technology like this( nb:it's not like online shopping)
+   
+   cons:
+   - unsure about scalability, will need insight rom mentor.
+   - 
+   who can be our sponsor:
+   - most likely a shopping center/mall interested in our idea,still unsure though
+4) Admin System for Hospitals
+   Ideas for it:
+   -An admin system for hospitals, that can keep track of patients files and medical history, as opposed to using physical files.
+   pros:
+   - can make the whole process of going to the hospital more efficient and therefore allowing the hospital to see to more patients by reducing time spent of retrieving/organizing their files.
+   cons:
+   - immplementation would be a constraint, because existing patients would have to have their records added to the system, which could be time consuming.
+   -
+   who can be our sponsor:
+   - well...hospitals?
+   - anyone interested in improving the current system hospitals use, really
