@@ -15,24 +15,26 @@
   ideas for it:
   -we can have things to track repeating scripts and different names of medication 
   pros:
-  -
+  -there are alot of people who need help tracking medication from the elderly to the sickly 
   -
   cons:
-  -
+  -any mistakes we make could be fatal (I know no one would actually use our system but we would have to take this into account)
+  -would require alot of different systems
   -
   who can be our sponsors:
   -doctors
   -pharmasists 
   -anyone with alot of medication
+  
   2)support group chat app
   ideas for it:
   -allows people to use usernames but when reading your own name youll see it appear as your irl name for better social interaction
   -can have facilitator roles that are allowed to schedule meetings and control who can speak and when 
    pros:
-  -
+  -is basically a simple chat system but with added features 
   -
   cons:
-  -
+  -may be too simple?
   -
   who can be our sponsors:
   -sponsors from groups like alcholics anonymous 
@@ -46,8 +48,8 @@
    - to my knowledge, there isn't an already existing technology like this( nb:it's not like online shopping)
    
    cons:
-   - unsure about scalability, will need insight rom mentor.
-   - 
+   - unsure about scalability, will need insight from mentor.
+   - (note from connor: things that track realtime stock count are unreliable due to needing methods of verifying the stock but maybe we dont need that?)
    who can be our sponsor:
    - most likely a shopping center/mall interested in our idea,still unsure though
 
@@ -71,10 +73,12 @@
   
   cons:
   -when coding we cant use words since im unsure if they can read or not. So we will have to include some kind of pictures that explain how the system works.
+  (comment from connor: they can read, its audio that doesnt work with them)
   
   pros; 
   well deaf people can have their own social and edutainment system.
   
   who can be our sponser:
   Deaf school teachers theyll also provide more details on how deaf kids learn 
+  (comment from connor: I live near Casa De Sol which is a special needs school that we could find a sponsor at)
   
